@@ -29,3 +29,13 @@ flex
     overflow-visible
     overflow-hidden
 }
+-------
+//for subclass
+{
+    align-self
+    self-start	
+    self-end	
+    self-center	
+    self-stretch
+}
+-------
